@@ -2,6 +2,7 @@
 
 - 🙍‍♂️ Adriano Tsuyoshi Toma
 - 💻 Working at Neoris - SAP Fiori Consultant
+- 🎓 System Analysis and Development - Fatec Ourinhos
 
 <div>
   <a href="https://github.com/Tsuyoushi">
