@@ -1,7 +1,7 @@
 ## Hii Everyone!
 
 - 🙍‍♂️ Adriano Tsuyoshi Toma
-- 💻 Working at Deloitte - SAP Fiori Consultant
+- 💻 Working at SAP - SAP BTP/Fiori Consultant
 - 🎓 System Analysis and Development - Fatec Ourinhos
 
 <div>
